@@ -7,11 +7,11 @@ require "easy_errors/version"
 Gem::Specification.new do |s|
   s.name        = "easy_errors"
   s.version     = EasyErrors::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of EasyErrors."
-  s.description = "TODO: Description of EasyErrors."
+  s.authors     = ["Bob Roberts"]
+  s.email       = ["broberts_az@yahoo.com"]
+  s.homepage    = "https://github.com/brobertsaz/easy_errors"
+  s.summary     = "Summary of EasyErrors."
+  s.description = "Description of EasyErrors."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
