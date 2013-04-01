@@ -1,3 +1,5 @@
 = EasyErrors
+An error handling engine for rails 3.
 
+= License
 This project rocks and uses MIT-LICENSE.
